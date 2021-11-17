@@ -1,5 +1,9 @@
 # RazorPagesPizza
-https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/1-introduction
+In order to get familiar with razor pages and asp.net core apps, I've followed this [tutorial](https://docs.microsoft.com/en-us/learn/modules/create-razor-pages-aspnet-core/1-introduction
+), which was also very nicely done by Scott Hanselmann and Maira Wenzel in this [video session](https://www.youtube.com/watch?v=YnU1FckB2s4) .
+
+
+I've extended this app to be run from inside a docker container, as in this [example](https://docs.microsoft.com/de-de/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0) for creating and running docker images for asp.net core.
 
 ## Running the asp.net core app
 Simply run the app with `dotnet run`.
